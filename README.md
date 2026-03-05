@@ -58,38 +58,6 @@
 - And more...
 
 <p align="center">
-  <a href="https://t.me/shivaya_dav">
-    <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
-  <a href="https://t.me/shivaya_dav">
-    <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
-  <a href="https://t.me/shivaya_dav">
-    <img src="https://img.shields Looking for a way to contact the developer or learn more about DogeRat? Reach out via our [Telegram channel](https://t.me/shivaya_dav):
-
-<div align="center">
-  <a href="https://t.me/shivaya_dav">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-</div>
-
-<h2 align="center">🔗 Contact and Social Media Accounts</h2>
-<p align="center">
-  <a href="https://t.me/shivaya_dav">
-    <img src="https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
-  <a href="https://t.me/shivaya_dav">
-    <img src="https://img.shields.io/badge/CONTACT-INSTAGRAM-red?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
-  </a>
-  <a href="https://t.me/shivaya_dav">
-    <img src="https://img.shields.io/badge/CONTACT-TWITTER-blue?style=for-the-badge&logo=twitter" alt="Twitter Badge"/>
-  </a>
-  <a href="https://t.me/shivaya_dav">
-    <img src="https://img.shields.io/badge/CONTACT-YOUTUBE-red?style=for-the-badge&logo=youtube" alt="Youtube Badge"/>
-  </a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Disclaimer-Important-red" alt="Important Disclaimer"/>
 </p>
 
@@ -101,29 +69,3 @@
   <b><i>Attention:</i></b> We do not endorse any illegal or unethical use of this tool. The user assumes all responsibility for the use of this software.
 </p>
 
-<p align="center">
-  <b><i>Important:</i></b> To prevent any fraudulent activity, please ensure that the Telegram handle is <a href="https://t.me/shivaya_dav"><code>@shivaya_dav</code></a>. Beware of scams and phishing attempts that use similar usernames or handles.
-</p>
-
-<p align="center">
-  <b><i>Thank you for using DogeRat - we hope it serves its intended purpose and helps you achieve your goals!</i></b>
-</p>
-
-<h1 align="center">Sponsorship</h1>
-<p align="center">If you find my work valuable, you can show your support by sponsoring me. Your contribution will help me maintain and improve my projects, and it will encourage me to create more useful content.</p>
-<p align="center">
-  <a href="https://t.me/shivaya_dav"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy me a coffee"></a>
-</p>
-
-<p align="center">Thank you to the following people for their support:</p>
-<div align="center">
-  <a href="https://github.com/shivaya-dav/DogeRat/stargazers">
-    <img src="https://reporoster.com/stars/dark/shivaya-dav/DogeRat" alt="Stargazers" title="Stargazers" width="400" height="auto">
-  </a>
-  <br>
-  -------------------------
-  <br>
-  <a href="https://github.com/shivaya-dav/DogeRat/network/members">
-    <img src="https://reporoster.com/forks/dark/shivaya-dav/DogeRat" alt="Forkers" title="Forkers" width="400" height="auto">
-  </a>
-</div>
